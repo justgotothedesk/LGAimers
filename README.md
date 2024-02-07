@@ -20,5 +20,4 @@
 11. Voting Classifier (Soft) (DecisionTreeClassifier, XGBoost, Gradient Boosting)
 
 ## 각 모델의 성능 결과
-![Model Accuracies](https://github.com/justgotothedesk/LGAimers/assets/114928709/766cc02b-76df-47c0-83cc-a3df55c0c393)
-
+![Model_Accuracies](https://github.com/justgotothedesk/LGAimers/assets/114928709/8ea591c1-2a63-42b3-ad7d-49b107339d89)
