@@ -5,8 +5,7 @@ df = pd.read_csv('train.csv')
 
 # 수치형 변수 선택
 numerical_columns = ['bant_submit', 'com_reg_ver_win_rate', 'historical_existing_cnt',
-                     'id_strategic_ver', 'it_strategic_ver', 'idit_strategic_ver', 'lead_desc_length',
-                     'ver_cus', 'ver_pro', 'ver_win_rate_x', 'ver_win_ratio_per_bu']
+                     'lead_desc_length', 'ver_cus', 'ver_pro', 'ver_win_rate_x', 'ver_win_ratio_per_bu']
 
 # 범주형 변수 선택
 categorical_columns = ['business_unit', 'customer_type', 'enterprise', 'customer_job', 'inquiry_type',
